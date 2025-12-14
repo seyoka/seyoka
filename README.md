@@ -1,11 +1,9 @@
 ## 🌁 About&nbsp;Me  
-Hey, I’m **Ryan** – first-year in Immersive Software Engineering @ UL 
+Hey, I’m **Ryan** – second-year in Immersive Software Engineering @ UL 
 
-- 💳  current **Intern @ Stripe**.  
-- 🛠️  co-founded **[Induct](https://induct.ie)** .  
-- ☀️  currently buidling **[Kepri](https://kepri.ie)** .  
-- 🖥️  Personal Site **[ryanmorrissey.dev](https://ryanmorrissey.dev)**.
-- 📍 Dublin, IE
+- prev intern @ stripe
+- prev co-founded induct
+- currently building CarbonCopy
 
 [![Stripe](https://img.shields.io/badge/Intern-Stripe-00ACFF?logo=stripe&logoColor=white&style=flat-square)](https://stripe.com) 
 [![Induct](https://img.shields.io/badge/Founder-Induct-FFB900?style=flat-square)](https://induct.ie) 
